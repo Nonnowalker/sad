@@ -1,0 +1,8 @@
+{
+  "name": "Audit di Accessibilità (web e non web)",
+  "description": "An application that analyzes an accessibility report, identifies all violated WCAG criteria, and provides a sorted, consolidated list of violations with their respective counts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
